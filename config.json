@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersave",
+        "uuid": 5842648,
+        "checksum": "upd0cg"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
